@@ -111,3 +111,14 @@ footer {
     }
 
   }
+
+  .madlib {
+    display: none;
+  }
+
+  .inputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
